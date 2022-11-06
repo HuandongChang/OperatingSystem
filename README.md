@@ -1,8 +1,9 @@
 # OperatingSystem
 This is a collection of all labs from the CSC-213 Operating System class at Grinnell College.
+
 Instructor: Charlie Curtsinger
 
-## Introduction:
+## Introduction
 shell: implement a “shell” program.
 
 virtual-memory: implement efficient file copying features that are only possible with virtual memory.
