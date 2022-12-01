@@ -15,3 +15,5 @@ worm:  implement a scheduler so that tasks in this system will run separate func
 password-cracker: implement a multithreading password cracker.
 
 sudoku:  uses the GPU to solve sudoku puzzles.
+
+p2pchat (peer-to-peer chat): a chat program that allows users to send messages between computers without a central server
